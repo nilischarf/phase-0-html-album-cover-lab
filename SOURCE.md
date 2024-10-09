@@ -18,7 +18,7 @@ PUBLISHED BY EMI APRIL MUSIC, INC. OBO ITSELF AND MORE WATERFROM NAZARETH (ASCAP
 
 PHARRELLWILLIAMS.COM
 
-[columbia-logo.png]
+<img src="columbia-logo.png" alt="columbia logo" />
 
 COLUMBIARECORDS.COM
 
